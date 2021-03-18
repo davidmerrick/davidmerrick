@@ -7,7 +7,7 @@ val davidmerrick = developer {
     name = "David Merrick"
     company = "VEVO"
     languages = listOf("kotlin", "java")
-  }
+  },
   links {
     website = "https://david-merrick.com"
     photography = "https://unsplash.com/@davidmerrick"
