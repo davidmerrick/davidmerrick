@@ -9,7 +9,7 @@ val davidmerrick = developer {
     languages = listOf("kotlin", "java")
   },
   links {
-    website = "https://david-merrick.com"
+    website = "https://davidmerrick.me"
     photography = "https://unsplash.com/@davidmerrick"
   }
 }
