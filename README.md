@@ -2,7 +2,7 @@
 ### I'm David Merrick
 
 ```kotlin
-val davidmerrick = developer {
+val davidMerrick = backendDeveloper {
   about {
     name = "David Merrick"
     company = "VEVO"
