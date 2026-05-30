@@ -2,14 +2,16 @@
 ### I'm David Merrick
 
 ```kotlin
-val davidMerrick = backendDeveloper {
+val davidMerrick = fullStackDev {
   about {
     name = "David Merrick"
-    company = "VEVO"
-    languages = listOf("kotlin", "java")
+    languages = listOf("kotlin", "java", "typescript")
   },
   links {
-    website = "https://davidmerrick.me"
+    websites = listOf(
+      "https://www.davidmerrick.me",
+      "https://merricklabs.io",
+    )
     photography = "https://unsplash.com/@davidmerrick"
   }
 }
